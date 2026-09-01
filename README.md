@@ -1,4 +1,3 @@
-# hcs-dbaas-platform-terraform-landing-zone
 # HCS DBaaS Platform: Layered Terraform Infrastructure as Code
  
 ## Table of Contents
